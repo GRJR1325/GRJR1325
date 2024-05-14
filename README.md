@@ -1,4 +1,11 @@
-### Hi there 👋
+### 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+<h1 align="center">Hola, soy <a>José Rolando</a>👋</h1>
+</div>
+
 
 <!--
 **GRJR1325/GRJR1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
